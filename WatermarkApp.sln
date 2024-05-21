@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WatermarkApp", "WatermarkApp.csproj", "{1FBAA1C5-14F7-4D45-8068-6927A3A0B654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBAA1C5-14F7-4D45-8068-6927A3A0B654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBAA1C5-14F7-4D45-8068-6927A3A0B654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBAA1C5-14F7-4D45-8068-6927A3A0B654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBAA1C5-14F7-4D45-8068-6927A3A0B654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80DB4126-825D-4363-819D-4B307785DE16}
+	EndGlobalSection
+EndGlobal
